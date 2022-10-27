@@ -15,9 +15,8 @@ Set yourself up for success during the hiring process. This provides an Intervie
 * How does your role relate to engineering?
 * What do you need from this role?
 
-## Interviewer - Hiring Manager
+## Interviewer - Hiring Manager Only
 
-* What do you need from this role?
 * What is the history of this position?
 * What are some challenges I would face in this job?
 * How do you define success for this job?
