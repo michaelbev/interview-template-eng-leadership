@@ -4,6 +4,8 @@
 
 ## Role - Engineering Leadership
 
+Set yourself up for success during the hiring process. This provides an Interview Format and Questions for Job Candidates.
+
 ---
 
 ## Interviewer
@@ -13,16 +15,18 @@
 * How does your role relate to engineering?
 * What do you need from this role?
 
-## Interviewer - Hiring Manaver
+## Interviewer - Hiring Manager
 
 * What do you need from this role?
+* What is the history of this position?
 * What are some challenges I would face in this job?
+* How do you define success for this job?
 
 ## Interviewee
 
-* Who I am
-* Why I am excited by the opportunity
-* How my experience and strengths align to the job requirements
+* Who I am...
+* Why I am excited by the opportunity...
+* How my experience and strengths align to the job requirements..
 
 ## Engineering practices
 
