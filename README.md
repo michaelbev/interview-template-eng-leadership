@@ -5,26 +5,32 @@
 ## Role - Engineering Leadership
 
 ---
+
 ## Interviewer
 
 * Tell me about yourself
-* What do you like about working here?
+* What's your favorite part about working here?
 * How does your role relate to engineering?
 * What do you need from this role?
 
+## Interviewer - Hiring Manaver
+
+* What do you need from this role?
+* What are some challenges I would face in this job?
+
 ## Interviewee
 
-* Let me tell you about me
-* Here is why I am excited by the opportunity.
-* Here is how my experience and strengths align to the job requirements.
+* Who I am
+* Why I am excited by the opportunity
+* How my experience and strengths align to the job requirements
 
 ## Engineering practices
 
-* Tell me about HOW engineering is done today.
+* Tell me about how engineering is done today
   * How is work organized?
-    * What is the How is work planned?
-    * What is the way You’re Structured And Organized
-    * What Tools And Processes are used?
+    * How is work planned?
+    * How are you structured and organized?
+    * What tools and processes are used?
   * Eng Health
     * What is working well?
     * What needs improvement?
@@ -69,3 +75,7 @@
 * How is performance mgmt done?
 * What is their typical day like?
 * How do they innovate and learn new skills?
+
+## Interviewee
+
+* Does anything give you pause about my candidacy?
