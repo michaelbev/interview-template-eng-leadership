@@ -76,6 +76,7 @@
 * What is their typical day like?
 * How do they innovate and learn new skills?
 
-## Interviewee
+## Closure
 
 * Does anything give you pause about my candidacy?
+* What are the next steps in the process?
