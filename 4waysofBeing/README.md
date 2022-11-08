@@ -1,6 +1,6 @@
 # 4 ways of Being a Good Engineer
 
-Guide for coaching engineers on soft-skills
+Guide for coaching engineers on soft-skills.
 
 ## Be a team player
 
