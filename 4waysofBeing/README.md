@@ -34,7 +34,9 @@ Product Management, User Experience, Tech Writers, and Product Marketing Manager
 
 ## Be a trailblazer
 
-DO: Map out a path and get teams moving.
+DO: Start by creating the “First useful thing”. Go fast from 0 -> 1 and then make it better.
+
+DO: Learn by doing and close the knowing-doing gap.
 
 DO: Do research spikes with engineers during the uphill phase figure out what our approach is and
 what we’re going to do. Design and deliver the first iterations of technical/architecture design to
@@ -42,14 +44,12 @@ see at least partly how it works in real life and how it provides something the 
 Write just enough code to explore the use of a technology or technique that we're unfamiliar with;
 pair with someone else to transfer skills on knowledge between people.
 
-DO: Prove your trailblazing lead to outcomes — consistency, efficiency, reuse — in pilot projects.
+DO: Prove your trailblazing led to outcomes — consistency, efficiency, reuse — in pilot projects.
 It’s a stepping stone to educate how a enabler efforts benefit others.
 
 DO: Sit in the space of ‘what else might be possible’.
 
 DO: Think and talk about the unknowns and knowns, do not focus and talk about the problems.
-
-DO: Do. Close the knowing-doing gap
 
 DO: Less conversation, more action. Video - A Little Less Conversation
 
