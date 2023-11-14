@@ -26,3 +26,5 @@
 |---|---|---|---|---|
 | Be predictable in delivery | Over 70% for Sprint Predictability. Percentage of story points that were committed to a sprint and completed during that sprint for all completed sprints |   |   |   |
 | Complete work | Over 90% for Sprint Completion Rate. Percentage of added and committed story points that were completed out of the total committed story points |   |   |   |
+| Minimize unplanned work | Under 20% for Sprint Addition Rate. For all completed sprints, the ratio of (story points that were added to an active sprint)   |   |   |
+| Focus | Between 5 to 15 user stories per sprint  |   |   |   |
