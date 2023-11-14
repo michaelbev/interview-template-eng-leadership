@@ -20,3 +20,9 @@
 | S | M | A | R | T |
 |---|---|---|---|---|
 | Maintain healthy WIP | Under 6 story points in-progress |   |   |   |
+
+# Be Pragmatic
+| S | M | A | R | T |
+|---|---|---|---|---|
+| Be predictable in delivery | Over 70% for Sprint Predictability. Percentage of story points that were committed to a sprint and completed during that sprint for all completed sprints |   |   |   |
+| Complete work | Over 90% for Sprint Completion Rate. Percentage of added and committed story points that were completed out of the total committed story points |   |   |   |
