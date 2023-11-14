@@ -20,6 +20,10 @@
 | S | M | A | R | T |
 |---|---|---|---|---|
 | Maintain healthy WIP | Under 6 story points in-progress |   |   |   |
+| 	
+Maintain a low percentage of changes that were made to a code that then resulted in incidents, rollbacks, or any type of production failure. | < 5% for Change Failure Rate |   |   |   |
+| Recover quickly | Under 4 working hours for Mean Time to Recovery from Incident  |   |   |   |
+
 
 # Be Pragmatic
 | S | M | A | R | T |
