@@ -14,3 +14,9 @@
 | Run experiments  | 1 Spike issue for Enabler per month  |   |   |   |
 | Maintain healthy WIP and avoid stalled work  | Medium time < 5 days for System Lead Time (Issue Cycle Time) In progress → Done |   |   |
 | Monitor total time a user has to wait to receive a feature after they requested it. | Medium time < 2 months for Issue Lead Time. Backlog → Done
+| Prevent stale and irrelevant Backlog issues.  | No Backlog issues over 6 months old. close, prioritize, or  |   |   |   |
+
+# Be a Champion for Engineering Excellence
+| S | M | A | R | T |
+|---|---|---|---|---|
+| Maintain healthy WIP | Under 6 story points in-progress |   |   |   |
