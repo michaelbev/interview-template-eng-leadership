@@ -7,8 +7,7 @@ Guide for coaching engineers on soft-skills.
 DO: Believe that success is dependent on others. Be a key part of an inclusive #oneteam environment
 that fosters collaboration and creativity.
 
-DO: Empiricism. Knowledge comes primarily from sensory experience of doing. Think with your hands -
-Show, not only tell.
+DO: Empiricism. Knowledge comes primarily from sensory experience of doing. Think with your hands - Show, not only tell.
 
 DO: Meaningfully collaborate with the team in the creative process.
 
