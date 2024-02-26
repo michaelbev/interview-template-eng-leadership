@@ -174,6 +174,11 @@ Set yourself up for success during the hiring process. This provides an Intervie
         * **What are my manager’s expectations of me in the first 90 days?**
         * What is your (or my future boss') hiring philosophy? Is it "hire the attitude / teach the skills" or are you primarily looking to add people with domain expertise first and foremost?
         * What keeps you up at night? What's your biggest worry these days?
+        * CAUTION - TOUGH ONES
+            * Accept We Are Part of the Problem - Can you share a specific instance when you recognized your contribution to a problem? What led to this realization, and how did it influence your actions in the future?
+            * Productive Vivergence - Tell me about a time when you guided a team through a complex issue without rushing toward a solution. How did you manage this process, and what led to finally deciding on a path forward?
+            * Self-Repair - Can you share an example of a time you chose not to intervene in a situation, allowing it to resolve on its own? What informed this decision, and how did it turn out?
+            * Collaboration - Can you tell me about a time when you involved other people in making sense of a problem and then worked with them to shape the environment to allow progress to happen?
     * Interviewee
         * Let me tell you about me
         * Here is why I am excited by the opportunity.
