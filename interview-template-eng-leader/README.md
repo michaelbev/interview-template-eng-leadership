@@ -46,7 +46,7 @@ Set yourself up for success during the hiring process. This provides an Intervie
    </td>
   </tr>
   <tr>
-   <td>Boss
+   <td>Reports To
    </td>
    <td>
    </td>
@@ -168,7 +168,7 @@ Set yourself up for success during the hiring process. This provides an Intervie
         * **What do you like about working here?**
         * How does your role collaborate with engineering?
         * What do you need from this role?
-    * Interviewer - Boss
+    * Interviewer - Reports To Manger
         * What's your (or my future boss') leadership style?
             * **_What does he respond well to? What are his hot buttons?_**
         * **What are my manager’s expectations of me in the first 90 days?**
