@@ -210,6 +210,7 @@ Set yourself up for success during the hiring process. This provides an Intervie
     * Break down your technical landscape in the product. What are all the stacks, languages, technologies and versions you use?
 * PRODUCT DEVELOPMENT PRACTICES
     * **What is the process for making decisions around tech and product?**
+      * How are priorites defined and communicated?
     * **How do you produce products?**
         * How is work organized?
             * WAY YOU PLAN
