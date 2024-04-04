@@ -161,6 +161,7 @@ Set yourself up for success during the hiring process. This provides an Intervie
         * Ask - Describe The Situation Here
             * Would That Work Here?
     * Calm
+    * Focus on the future 
 * PERSONAL
     * Interviewer
         * Tell me about yourself
@@ -168,6 +169,8 @@ Set yourself up for success during the hiring process. This provides an Intervie
         * **What do you like about working here?**
         * How does your role collaborate with engineering?
         * What do you need from this role?
+    * Interviewer - HR
+        * Culture is important to me, could you describe the characteristics of the culture here?
     * Interviewer - Reports To Manger
         * What's your (or my future boss') leadership style?
             * **_What does he respond well to? What are his hot buttons?_**
