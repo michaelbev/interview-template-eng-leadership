@@ -209,6 +209,13 @@ Set yourself up for success during the hiring process. This provides an Intervie
         * **How does this position support those goals?**
     * What are the goals of this initiative?
     * Who will be giving me direction, and how will I be involved in defining my goals and objectives?
+* FUTURE SUCCESS
+    * What would success for the company look like in a year?
+      * What will we have done over the next 12 months to make it successful? How does this position help achieve those goals?
+        * show your ability to look beyond today's duties to the future more than a year away
+    * If I or someone is hired for this role, what would success look like in 1 year?
+      * What specific achievements would be reached? Products delivered? Relationships established?
+    * What are the top skills you need this individual to walk in the door with to achieve this success?
 * TECH LANDSCAPE
     * Break down your technical landscape in the product. What are all the stacks, languages, technologies and versions you use?
 * PRODUCT DEVELOPMENT PRACTICES
@@ -251,8 +258,6 @@ Set yourself up for success during the hiring process. This provides an Intervie
         * Is there a time of year that it's "all hands on deck" and we're pulling all-nighters, or is it pretty consistent throughout the year?
         * How about during the week / month?
         * Is it pretty evenly spread throughout the week / month, or are there crunch days? 
-* SUCCESS CRITERIA
-    * **What are the top skills you need this individual to walk in the door with and what skills could be built or further enhanced via on the job training or personal development?**
 * PERFORMANCE
     * **What do you want this individual to come in and accomplish over the next 3 months? 6 months? 1 year?**
     * **What would good look like in 18 months?**
@@ -292,9 +297,6 @@ Set yourself up for success during the hiring process. This provides an Intervie
     * **What's the timeline for making a decision on this position?** When should I get back in touch with you?
     * What type of industry / functional / skills-based experience and background are you looking for in the person who will fill this position? What would the "perfect" candidate look like? How do you assess my experience in comparison? What gaps do you see? 
     * Every position is precious when it comes to the budget. Why did you decide to hire somebody for this position instead of the many other roles / jobs you could have hired for? What about this position made you prioritize it over others?
-* GROWTH
-    * If we are going to have a very successful next year, what will that look like? What will we have done over the next 12 months to make it successful? How does this position help achieve those goals?
-        * show your ability to look beyond today's duties to the future more than a year away
 * CLOSING
     * **Are there any concerns about my background that I can address for you?**
         * Is there anything that gives you pause about me being the top candidate?
